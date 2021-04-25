@@ -1,0 +1,191 @@
+# List of SDK dependencies of this app, this information is also included in an encrypted form in the APK.
+# For more information visit: https://d.android.com/r/tools/dependency-metadata
+
+library {
+  maven_library {
+    groupId: "com.badlogicgames.gdx"
+    artifactId: "gdx-backend-android"
+    version: "1.9.10"
+  }
+  digests {
+    sha256: "\304Em\n\315\305e:\005\232Z=\231j\243\344h\017\325\213Rp\"\325\370\321\033\234,\376\262l"
+  }
+}
+library {
+  maven_library {
+    groupId: "com.badlogicgames.gdx"
+    artifactId: "gdx"
+    version: "1.9.10"
+  }
+  digests {
+    sha256: "\277N\330\272\033(x\352\207\036\252\216\367y\222\321\005\350\371\376\236\272\036\202\024\327A\274\323\331\3647"
+  }
+}
+library {
+  maven_library {
+    groupId: "com.badlogicgames.gdx"
+    artifactId: "gdx-box2d"
+    version: "1.9.10"
+  }
+  digests {
+    sha256: "\322\024\v\003\322\372e\250\206\005O \037\212\241\357\032\f\225\032\3672D3.?\030\325JjP\207"
+  }
+}
+library {
+  maven_library {
+    groupId: "com.badlogicgames.gdx"
+    artifactId: "gdx-bullet"
+    version: "1.9.10"
+  }
+  digests {
+    sha256: "\025\364\302\0270\004\315pYG\273-\025\361TOK\251(-\203V\000\177\v\377\213\304\200&\376\276"
+  }
+}
+library {
+  maven_library {
+    groupId: "com.badlogicgames.box2dlights"
+    artifactId: "box2dlights"
+    version: "1.4"
+  }
+  digests {
+    sha256: "\030#ha\212(Q\321\224\346k@\277\350N\a\203-\215<\247b\026\341\202`\210\\\032\214\206\214"
+  }
+}
+library {
+  maven_library {
+    groupId: "com.badlogicgames.gdx"
+    artifactId: "gdx-freetype"
+    version: "1.9.10"
+  }
+  digests {
+    sha256: "\037n\200m\340o\224\2019\375\021\250\317\337}F\316\307ND\341\311\315\3147\001$~D\334\222\212"
+  }
+}
+library {
+  maven_library {
+    groupId: "com.badlogicgames.ashley"
+    artifactId: "ashley"
+    version: "1.7.0"
+  }
+  digests {
+    sha256: "\374\366xE\027}S%\257\241W\221\017\275\307|\201\227\027\360\362l\"!\271\032xl\262\245\242\t"
+  }
+}
+library {
+  maven_library {
+    groupId: "com.badlogicgames.gdx"
+    artifactId: "gdx-ai"
+    version: "1.8.0"
+  }
+  digests {
+    sha256: "3\371\036v\"\304\2478\255\036\325:4\341l\342\303\273\324\333\3720\234sI\264m\206\242\222\255U"
+  }
+}
+library {
+  maven_library {
+    groupId: "com.badlogicgames.gdx"
+    artifactId: "gdx-controllers"
+    version: "1.9.10"
+  }
+  digests {
+    sha256: "/\017\312/$\016\005\352\300\004\377\240\006\f\372i=\266\331]\026q\237\222\232\002a\301]>\033("
+  }
+}
+library {
+  maven_library {
+    groupId: "com.badlogicgames.gdx"
+    artifactId: "gdx-controllers-android"
+    version: "1.9.10"
+  }
+  digests {
+    sha256: "\364\246\254uB\356\236\220\262\022P\2705q\360\3116m\332H)\366\032\324\030\033\023\371\253\224@\374"
+  }
+}
+library {
+  maven_library {
+    groupId: "com.underwaterapps.overlap2druntime"
+    artifactId: "overlap2d-runtime-libgdx"
+    version: "0.1.1"
+  }
+  digests {
+    sha256: "N\225\0307\200\206\243\265Q+1o\264Zi\2113\314\003-\211\";\20473\213a\351\242P\372"
+  }
+}
+library {
+  digests {
+    sha256: "\363Y\336\200\223N_\346[2\301\304\354\351\2407\031\030\216\2675)\344\211-\032\245\272f3\254l"
+  }
+}
+library {
+  digests {
+    sha256: "\267\a\340\221\017\335tL\326\374\312\366\034i\241\031\350\345\245\323\327+Q\370s\275\a\323@I\325\017"
+  }
+}
+library_dependencies {
+  library_dep_index: 1
+}
+library_dependencies {
+  library_index: 1
+}
+library_dependencies {
+  library_index: 2
+  library_dep_index: 1
+}
+library_dependencies {
+  library_index: 3
+  library_dep_index: 1
+}
+library_dependencies {
+  library_index: 4
+  library_dep_index: 2
+}
+library_dependencies {
+  library_index: 5
+  library_dep_index: 1
+}
+library_dependencies {
+  library_index: 6
+  library_dep_index: 1
+}
+library_dependencies {
+  library_index: 7
+  library_dep_index: 1
+}
+library_dependencies {
+  library_index: 8
+  library_dep_index: 1
+}
+library_dependencies {
+  library_index: 9
+  library_dep_index: 1
+  library_dep_index: 8
+  library_dep_index: 0
+}
+library_dependencies {
+  library_index: 10
+  library_dep_index: 2
+  library_dep_index: 1
+  library_dep_index: 4
+  library_dep_index: 6
+  library_dep_index: 5
+}
+library_dependencies {
+  library_index: 11
+}
+library_dependencies {
+  library_index: 12
+}
+module_dependencies {
+  module_name: "base"
+  dependency_index: 0
+  dependency_index: 2
+  dependency_index: 3
+  dependency_index: 4
+  dependency_index: 5
+  dependency_index: 6
+  dependency_index: 7
+  dependency_index: 8
+  dependency_index: 9
+  dependency_index: 11
+  dependency_index: 12
+}

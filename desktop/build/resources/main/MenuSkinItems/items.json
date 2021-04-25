@@ -1,0 +1,19 @@
+{
+  "com.badlogic.gdx.scenes.scene2d.ui.Image": {
+    "cloud1": {
+      drawable: "cloud1"
+    },
+    "cloud2": {
+      drawable: "cloud2"
+    },
+    "cloud3": {
+      drawable: "cloud3"
+    },
+    "cloud4": {
+      drawable: "cloud4"
+    },
+    "cloud5": {
+      drawable: "cloud5"
+    }
+  }
+}

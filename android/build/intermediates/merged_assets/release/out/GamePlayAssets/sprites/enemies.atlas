@@ -1,0 +1,439 @@
+enemies.png
+size: 1488, 96
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+Hattak
+  rotate: false
+  xy: 0, 0
+  size: 48, 48
+  orig: 48, 48
+  offset: 0, 0
+  index: -1
+Hattak
+  rotate: false
+  xy: 48, 0
+  size: 48, 48
+  orig: 48, 48
+  offset: 0, 0
+  index: -1
+Hattak
+  rotate: false
+  xy: 96, 0
+  size: 48, 48
+  orig: 48, 48
+  offset: 0, 0
+  index: -1
+Hattak
+  rotate: false
+  xy: 144, 0
+  size: 48, 48
+  orig: 48, 48
+  offset: 0, 0
+  index: -1
+Hattak
+  rotate: false
+  xy: 192, 0
+  size: 48, 48
+  orig: 48, 48
+  offset: 0, 0
+  index: -1
+Hattak
+  rotate: false
+  xy: 240, 0
+  size: 48, 48
+  orig: 48, 48
+  offset: 0, 0
+  index: -1
+Hdeath
+  rotate: false
+  xy: 288, 0
+  size: 48, 48
+  orig: 48, 48
+  offset: 0, 0
+  index: -1
+Hdeath
+  rotate: false
+  xy: 336, 0
+  size: 48, 48
+  orig: 48, 48
+  offset: 0, 0
+  index: -1
+Hdeath
+  rotate: false
+  xy: 384, 0
+  size: 48, 48
+  orig: 48, 48
+  offset: 0, 0
+  index: -1
+Hdeath
+  rotate: false
+  xy: 432, 0
+  size: 48, 48
+  orig: 48, 48
+  offset: 0, 0
+  index: -1
+Hdeath
+  rotate: false
+  xy: 480, 0
+  size: 48, 48
+  orig: 48, 48
+  offset: 0, 0
+  index: -1
+Hdeath
+  rotate: false
+  xy: 528, 0
+  size: 48, 48
+  orig: 48, 48
+  offset: 0, 0
+  index: -1
+Hhurt
+  rotate: false
+  xy: 576, 0
+  size: 48, 48
+  orig: 48, 48
+  offset: 0, 0
+  index: -1
+Hhurt
+  rotate: false
+  xy: 624, 0
+  size: 48, 48
+  orig: 48, 48
+  offset: 0, 0
+  index: -1
+Hidel
+  rotate: false
+  xy: 672, 0
+  size: 48, 48
+  orig: 48, 48
+  offset: 0, 0
+  index: -1
+Hidel
+  rotate: false
+  xy: 720, 0
+  size: 48, 48
+  orig: 48, 48
+  offset: 0, 0
+  index: -1
+Hidel
+  rotate: false
+  xy: 768, 0
+  size: 48, 48
+  orig: 48, 48
+  offset: 0, 0
+  index: -1
+Hidel
+  rotate: false
+  xy: 816, 0
+  size: 48, 48
+  orig: 48, 48
+  offset: 0, 0
+  index: -1
+Hwalk
+  rotate: false
+  xy: 864, 0
+  size: 48, 48
+  orig: 48, 48
+  offset: 0, 0
+  index: -1
+Hwalk
+  rotate: false
+  xy: 912, 0
+  size: 48, 48
+  orig: 48, 48
+  offset: 0, 0
+  index: -1
+Hwalk
+  rotate: false
+  xy: 960, 0
+  size: 48, 48
+  orig: 48, 48
+  offset: 0, 0
+  index: -1
+Hwalk
+  rotate: false
+  xy: 1008, 0
+  size: 48, 48
+  orig: 48, 48
+  offset: 0, 0
+  index: -1
+Hwalk
+  rotate: false
+  xy: 1056, 0
+  size: 48, 48
+  orig: 48, 48
+  offset: 0, 0
+  index: -1
+Hwalk
+  rotate: false
+  xy: 1104, 0
+  size: 48, 48
+  orig: 48, 48
+  offset: 0, 0
+  index: -1
+Sattack-0
+  rotate: false
+  xy: 1152, 0
+  size: 48, 48
+  orig: 48, 48
+  offset: 0, 0
+  index: -1
+Sattack-1
+  rotate: false
+  xy: 1200, 0
+  size: 48, 48
+  orig: 48, 48
+  offset: 0, 0
+  index: -1
+Sattack-2
+  rotate: false
+  xy: 1248, 0
+  size: 48, 48
+  orig: 48, 48
+  offset: 0, 0
+  index: -1
+Sattack-3
+  rotate: false
+  xy: 1296, 0
+  size: 48, 48
+  orig: 48, 48
+  offset: 0, 0
+  index: -1
+Sattack-4
+  rotate: false
+  xy: 1344, 0
+  size: 48, 48
+  orig: 48, 48
+  offset: 0, 0
+  index: -1
+Sattack-5
+  rotate: false
+  xy: 1392, 0
+  size: 48, 48
+  orig: 48, 48
+  offset: 0, 0
+  index: -1
+SCattack
+  rotate: false
+  xy: 1440, 0
+  size: 48, 48
+  orig: 48, 48
+  offset: 0, 0
+  index: -1
+SCattack
+  rotate: false
+  xy: 0, 48
+  size: 48, 48
+  orig: 48, 48
+  offset: 0, 0
+  index: -1
+SCattack
+  rotate: false
+  xy: 48, 48
+  size: 48, 48
+  orig: 48, 48
+  offset: 0, 0
+  index: -1
+SCattack
+  rotate: false
+  xy: 96, 48
+  size: 48, 48
+  orig: 48, 48
+  offset: 0, 0
+  index: -1
+SCdeath
+  rotate: false
+  xy: 144, 48
+  size: 48, 48
+  orig: 48, 48
+  offset: 0, 0
+  index: -1
+SCdeath
+  rotate: false
+  xy: 192, 48
+  size: 48, 48
+  orig: 48, 48
+  offset: 0, 0
+  index: -1
+SCdeath
+  rotate: false
+  xy: 240, 48
+  size: 48, 48
+  orig: 48, 48
+  offset: 0, 0
+  index: -1
+SCdeath
+  rotate: false
+  xy: 288, 48
+  size: 48, 48
+  orig: 48, 48
+  offset: 0, 0
+  index: -1
+SChurt
+  rotate: false
+  xy: 336, 48
+  size: 48, 48
+  orig: 48, 48
+  offset: 0, 0
+  index: -1
+SChurt
+  rotate: false
+  xy: 384, 48
+  size: 48, 48
+  orig: 48, 48
+  offset: 0, 0
+  index: -1
+SCidle
+  rotate: false
+  xy: 432, 48
+  size: 48, 48
+  orig: 48, 48
+  offset: 0, 0
+  index: -1
+SCidle
+  rotate: false
+  xy: 480, 48
+  size: 48, 48
+  orig: 48, 48
+  offset: 0, 0
+  index: -1
+SCidle
+  rotate: false
+  xy: 528, 48
+  size: 48, 48
+  orig: 48, 48
+  offset: 0, 0
+  index: -1
+SCidle
+  rotate: false
+  xy: 576, 48
+  size: 48, 48
+  orig: 48, 48
+  offset: 0, 0
+  index: -1
+SCwalk
+  rotate: false
+  xy: 624, 48
+  size: 48, 48
+  orig: 48, 48
+  offset: 0, 0
+  index: -1
+SCwalk
+  rotate: false
+  xy: 672, 48
+  size: 48, 48
+  orig: 48, 48
+  offset: 0, 0
+  index: -1
+SCwalk
+  rotate: false
+  xy: 720, 48
+  size: 48, 48
+  orig: 48, 48
+  offset: 0, 0
+  index: -1
+SCwalk
+  rotate: false
+  xy: 768, 48
+  size: 48, 48
+  orig: 48, 48
+  offset: 0, 0
+  index: -1
+Sdeath-0
+  rotate: false
+  xy: 816, 48
+  size: 48, 48
+  orig: 48, 48
+  offset: 0, 0
+  index: -1
+Sdeath-1
+  rotate: false
+  xy: 864, 48
+  size: 48, 48
+  orig: 48, 48
+  offset: 0, 0
+  index: -1
+Sdeath-2
+  rotate: false
+  xy: 912, 48
+  size: 48, 48
+  orig: 48, 48
+  offset: 0, 0
+  index: -1
+Sdeath-3
+  rotate: false
+  xy: 960, 48
+  size: 48, 48
+  orig: 48, 48
+  offset: 0, 0
+  index: -1
+Shurt-0
+  rotate: false
+  xy: 1008, 48
+  size: 48, 48
+  orig: 48, 48
+  offset: 0, 0
+  index: -1
+Shurt-1
+  rotate: false
+  xy: 1056, 48
+  size: 48, 48
+  orig: 48, 48
+  offset: 0, 0
+  index: -1
+Sidle-0
+  rotate: false
+  xy: 1104, 48
+  size: 48, 48
+  orig: 48, 48
+  offset: 0, 0
+  index: -1
+Sidle-1
+  rotate: false
+  xy: 1152, 48
+  size: 48, 48
+  orig: 48, 48
+  offset: 0, 0
+  index: -1
+Sidle-2
+  rotate: false
+  xy: 1200, 48
+  size: 48, 48
+  orig: 48, 48
+  offset: 0, 0
+  index: -1
+Sidle-3
+  rotate: false
+  xy: 1248, 48
+  size: 48, 48
+  orig: 48, 48
+  offset: 0, 0
+  index: -1
+Swalk-0
+  rotate: false
+  xy: 1296, 48
+  size: 48, 48
+  orig: 48, 48
+  offset: 0, 0
+  index: -1
+Swalk-1
+  rotate: false
+  xy: 1344, 48
+  size: 48, 48
+  orig: 48, 48
+  offset: 0, 0
+  index: -1
+Swalk-2
+  rotate: false
+  xy: 1392, 48
+  size: 48, 48
+  orig: 48, 48
+  offset: 0, 0
+  index: -1
+Swalk-3
+  rotate: false
+  xy: 1440, 48
+  size: 48, 48
+  orig: 48, 48
+  offset: 0, 0
+  index: -1

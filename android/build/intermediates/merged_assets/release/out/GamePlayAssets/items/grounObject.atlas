@@ -1,0 +1,103 @@
+grounObject.png
+size: 756, 124
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+ground1
+  rotate: false
+  xy: 0, 0
+  size: 54, 124
+  orig: 54, 124
+  offset: 0, 0
+  index: -1
+ground2
+  rotate: false
+  xy: 54, 0
+  size: 54, 124
+  orig: 54, 124
+  offset: 0, 0
+  index: -1
+torchA
+  rotate: false
+  xy: 108, 0
+  size: 16, 32
+  orig: 16, 32
+  offset: 0, 0
+  index: -1
+torchA
+  rotate: false
+  xy: 162, 0
+  size: 16, 32
+  orig: 16, 32
+  offset: 0, 0
+  index: -1
+torchA
+  rotate: false
+  xy: 216, 0
+  size: 16, 32
+  orig: 16, 32
+  offset: 0, 0
+  index: -1
+torchA
+  rotate: false
+  xy: 270, 0
+  size: 16, 32
+  orig: 16, 32
+  offset: 0, 0
+  index: -1
+torchB
+  rotate: false
+  xy: 324, 0
+  size: 16, 32
+  orig: 16, 32
+  offset: 0, 0
+  index: -1
+torchB
+  rotate: false
+  xy: 378, 0
+  size: 16, 32
+  orig: 16, 32
+  offset: 0, 0
+  index: -1
+torchB
+  rotate: false
+  xy: 432, 0
+  size: 16, 32
+  orig: 16, 32
+  offset: 0, 0
+  index: -1
+torchB
+  rotate: false
+  xy: 486, 0
+  size: 16, 32
+  orig: 16, 32
+  offset: 0, 0
+  index: -1
+torchC
+  rotate: false
+  xy: 540, 0
+  size: 16, 32
+  orig: 16, 32
+  offset: 0, 0
+  index: -1
+torchC
+  rotate: false
+  xy: 594, 0
+  size: 16, 32
+  orig: 16, 32
+  offset: 0, 0
+  index: -1
+torchC
+  rotate: false
+  xy: 648, 0
+  size: 16, 32
+  orig: 16, 32
+  offset: 0, 0
+  index: -1
+torchC
+  rotate: false
+  xy: 702, 0
+  size: 16, 32
+  orig: 16, 32
+  offset: 0, 0
+  index: -1

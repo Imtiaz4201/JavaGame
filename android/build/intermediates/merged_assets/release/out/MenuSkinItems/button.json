@@ -1,0 +1,64 @@
+{
+  "com.badlogic.gdx.graphics.Color": {
+    "black": {
+      a: 1,
+      b: 0,
+      g: 0,
+      r: 0
+    },
+    "white": {
+      a: 1,
+      b: 1,
+      g: 1,
+      r: 1
+    },
+    "green": {
+      a: 1,
+      b: 0,
+      g: 1,
+      r: 0
+    },
+    "red": {
+      a: 1,
+      b: 0,
+      g: 0,
+      r: 1
+    }
+  },
+  "com.badlogic.gdx.graphics.g2d.BitmapFont": {
+    "black_font": {
+      "file": "black.fnt"
+    }
+  },
+  "com.badlogic.gdx.scenes.scene2d.ui.ImageButton$ImageButtonStyle": {
+    "start": {
+      "up": "start1",
+      "down": "start2"
+    },
+    "buttonExit": {
+      "up": "exit1",
+      "down": "exit2"
+    },
+    "score": {
+      "up": "normal1",
+      "down": "normal2"
+    },
+    "setting": {
+      "up": "ST_up",
+      "down": "ST_down"
+    },
+    "login": {
+      "up": "login1",
+      "down": "login2"
+    },
+    "sound": {
+      "up": "soundON",
+      "down": "soundOFF"
+    }
+  },
+  "com.badlogic.gdx.scenes.scene2d.ui.Label$LabelStyle": {
+    "default": {
+      "font": "black_font"
+    }
+  }
+}

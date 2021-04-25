@@ -1,0 +1,26 @@
+
+exitDialogSkin.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+Bg
+  rotate: false
+  xy: 1, 79
+  size: 1024, 683
+  orig: 1024, 683
+  offset: 0, 0
+  index: -1
+clipBoard
+  rotate: false
+  xy: 1, 1
+  size: 368, 76
+  orig: 368, 76
+  offset: 0, 0
+  index: -1
+Button
+  rotate: false
+  xy: 371, 29
+  size: 111, 48
+  orig: 111, 48
+  offset: 0, 0
+  index: -1

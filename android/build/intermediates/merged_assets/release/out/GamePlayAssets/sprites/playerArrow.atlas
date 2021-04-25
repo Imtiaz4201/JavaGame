@@ -1,0 +1,12 @@
+playerArrow.png
+size: 120, 95
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+arrow
+  rotate: false
+  xy: 0, 0
+  size: 120, 95
+  orig: 120, 95
+  offset: 0, 0
+  index: -1

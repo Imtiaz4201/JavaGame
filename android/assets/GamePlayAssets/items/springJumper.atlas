@@ -1,0 +1,33 @@
+springJumper.png
+size: 580, 110
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+Boat
+  rotate: false
+  xy: 0, 0
+  size: 74, 18
+  orig: 74, 18
+  offset: 0, 0
+  index: -1
+spring
+  rotate: false
+  xy: 145, 0
+  size: 145, 77
+  orig: 145, 77
+  offset: 0, 0
+  index: -1
+spring_in
+  rotate: false
+  xy: 290, 0
+  size: 145, 57
+  orig: 145, 57
+  offset: 0, 0
+  index: -1
+spring_out
+  rotate: false
+  xy: 435, 0
+  size: 145, 110
+  orig: 145, 110
+  offset: 0, 0
+  index: -1

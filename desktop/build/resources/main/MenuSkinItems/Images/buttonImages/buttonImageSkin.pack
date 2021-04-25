@@ -1,0 +1,114 @@
+
+buttonImageSkin.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+exit1
+  rotate: false
+  xy: 1, 773
+  size: 1920, 1080
+  orig: 1920, 1080
+  offset: 0, 0
+  index: -1
+login1
+  rotate: false
+  xy: 1, 259
+  size: 512, 512
+  orig: 512, 512
+  offset: 0, 0
+  index: -1
+login2
+  rotate: false
+  xy: 515, 259
+  size: 512, 512
+  orig: 512, 512
+  offset: 0, 0
+  index: -1
+ST_down
+  rotate: false
+  xy: 1, 5
+  size: 448, 252
+  orig: 448, 252
+  offset: 0, 0
+  index: -1
+ST_up
+  rotate: false
+  xy: 1029, 519
+  size: 448, 252
+  orig: 448, 252
+  offset: 0, 0
+  index: -1
+soundOFF
+  rotate: false
+  xy: 1029, 261
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: -1
+soundON
+  rotate: false
+  xy: 451, 1
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: -1
+
+buttonImageSkin2.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+exit2
+  rotate: false
+  xy: 1, 1
+  size: 1920, 1080
+  orig: 1920, 1080
+  offset: 0, 0
+  index: -1
+
+buttonImageSkin3.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+normal1
+  rotate: false
+  xy: 1, 1
+  size: 1920, 1080
+  orig: 1920, 1080
+  offset: 0, 0
+  index: -1
+
+buttonImageSkin4.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+normal2
+  rotate: false
+  xy: 1, 1
+  size: 1920, 1080
+  orig: 1920, 1080
+  offset: 0, 0
+  index: -1
+
+buttonImageSkin5.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+start1
+  rotate: false
+  xy: 1, 1
+  size: 1920, 1080
+  orig: 1920, 1080
+  offset: 0, 0
+  index: -1
+
+buttonImageSkin6.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+start2
+  rotate: false
+  xy: 1, 1
+  size: 1920, 1080
+  orig: 1920, 1080
+  offset: 0, 0
+  index: -1

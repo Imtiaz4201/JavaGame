@@ -1,0 +1,12 @@
+{
+  "com.badlogic.gdx.scenes.scene2d.ui.Image": {
+    "Background": {
+      "drawable": "Background"
+      // drawable is the method of Image class
+    },
+    "bunny": {
+      "drawable": "bunny"
+    }
+  }
+}
+

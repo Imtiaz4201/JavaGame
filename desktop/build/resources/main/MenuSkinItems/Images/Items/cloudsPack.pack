@@ -1,0 +1,44 @@
+
+cloudsPack.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+cloud5
+  rotate: false
+  xy: 1, 152
+  size: 272, 173
+  split: 90, 91, 57, 58
+  orig: 272, 173
+  offset: 0, 0
+  index: -1
+cloud1
+  rotate: false
+  xy: 1, 1
+  size: 302, 149
+  split: 101, 99, 44, 52
+  orig: 302, 149
+  offset: 0, 0
+  index: -1
+cloud4
+  rotate: false
+  xy: 275, 161
+  size: 267, 164
+  split: 88, 89, 0, 140
+  orig: 267, 164
+  offset: 0, 0
+  index: -1
+cloud2
+  rotate: false
+  xy: 305, 2
+  size: 306, 157
+  split: 101, 103, 52, 52
+  orig: 306, 157
+  offset: 0, 0
+  index: -1
+cloud3
+  rotate: false
+  xy: 544, 176
+  size: 294, 149
+  orig: 294, 149
+  offset: 0, 0
+  index: -1

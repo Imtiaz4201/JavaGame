@@ -1,0 +1,60 @@
+
+subLevelSkinPack.png
+size: 512,256
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+back
+  rotate: false
+  xy: 2, 2
+  size: 125, 52
+  split: 26, 97, 17, 17
+  pad: 0, 0, 0, 0
+  orig: 125, 52
+  offset: 0, 0
+  index: -1
+backhover
+  rotate: false
+  xy: 129, 2
+  size: 125, 52
+  split: 26, 96, 17, 17
+  pad: 0, 0, 0, 0
+  orig: 125, 52
+  offset: 0, 0
+  index: -1
+level
+  rotate: false
+  xy: 388, 150
+  size: 122, 92
+  split: 40, 41, 30, 31
+  pad: 0, 0, 0, 0
+  orig: 122, 92
+  offset: 0, 0
+  index: -1
+levelhover
+  rotate: false
+  xy: 388, 56
+  size: 122, 92
+  split: 40, 41, 30, 31
+  pad: 0, 0, 0, 0
+  orig: 122, 92
+  offset: 0, 0
+  index: -1
+nextLevel
+  rotate: false
+  xy: 2, 56
+  size: 384, 186
+  split: 128, 128, 62, 62
+  pad: 0, 0, 0, 0
+  orig: 384, 186
+  offset: 0, 0
+  index: -1
+star
+  rotate: false
+  xy: 256, 22
+  size: 32, 32
+  split: 10, 11, 10, 11
+  pad: 0, 0, 0, 0
+  orig: 32, 32
+  offset: 0, 0
+  index: -1

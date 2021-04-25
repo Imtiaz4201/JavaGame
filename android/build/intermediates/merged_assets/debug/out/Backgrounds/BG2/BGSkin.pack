@@ -1,0 +1,12 @@
+
+BGSkin.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+BG
+  rotate: false
+  xy: 1, 1
+  size: 2000, 1333
+  orig: 2000, 1333
+  offset: 0, 0
+  index: -1

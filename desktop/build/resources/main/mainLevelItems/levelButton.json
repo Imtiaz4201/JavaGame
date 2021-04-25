@@ -1,0 +1,27 @@
+{
+  com.badlogic.gdx.scenes.scene2d.ui.ImageButton$ImageButtonStyle: {
+    "back": {
+      imageUp: "back",
+      imageOver: "backhover"
+    },
+    "city": {
+      imageUp: "city",
+      imageOver: "cityhover"
+    },
+    "desert": {
+      imageUp: "desert",
+      imageOver: "deserthover"
+    },
+    "ext": {
+      imageUp: "ext"
+    },
+    "jungle": {
+      imageUp: "jungle",
+      imageOver: "junglehover"
+    },
+    "night": {
+      imageUp: "night",
+      imageOver: "nighthover"
+    }
+  }
+}

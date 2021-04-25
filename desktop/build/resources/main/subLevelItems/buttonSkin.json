@@ -1,0 +1,45 @@
+{
+  "com.badlogic.gdx.graphics.g2d.BitmapFont": {
+    "font": {
+      file: "black.fnt"
+    }
+  },
+  "com.badlogic.gdx.graphics.Color": {
+    "black": {
+      r: 0
+      g: 0
+      b: 0
+      a: 1
+    }
+  },
+  "com.badlogic.gdx.scenes.scene2d.ui.Image": {
+    "star": {
+      drawable: "star"
+    }
+  },
+  "com.badlogic.gdx.scenes.scene2d.ui.ImageButton$ImageButtonStyle": {
+    "back": {
+      imageUp: "back",
+      imageOver: "backhover"
+    }
+  },
+  "com.badlogic.gdx.scenes.scene2d.ui.ImageTextButton$ImageTextButtonStyle": {
+    "level": {
+      font: "font"
+      fontColor: "black"
+      up: "level",
+      over: "levelhover"
+    },
+    "nextLevel": {
+      font: "font"
+      fontColor: "black"
+      up: "nextLevel"
+    }
+  },
+  com.badlogic.gdx.scenes.scene2d.ui.Label$LabelStyle: {
+    default: {
+      font: "font"
+      fontColor: "black"
+    }
+  }
+}

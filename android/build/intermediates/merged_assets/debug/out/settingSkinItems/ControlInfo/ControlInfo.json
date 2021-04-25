@@ -1,0 +1,29 @@
+{
+  "com.badlogic.gdx.graphics.g2d.BitmapFont": {
+    "black_font": {
+      file: "black.fnt"
+    },
+    "red_font": {
+      "file": "red.fnt"
+    }
+  },
+  "com.badlogic.gdx.scenes.scene2d.ui.Window$WindowStyle": {
+    "ControllInfo": {
+      "background": "ControllInfo",
+      "titleFont": "red_font",
+    },
+    "GameOverMsg": {
+      "background": "GameOverMsg",
+      "titleFont": "red_font",
+    },
+    "arrowFinished": {
+      "background": "arrowFinished",
+      "titleFont": "red_font",
+    }
+  },
+  "com.badlogic.gdx.scenes.scene2d.ui.Label$LabelStyle": {
+    "default": {
+      "font": "red_font"
+    }
+  }
+}

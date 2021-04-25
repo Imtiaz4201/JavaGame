@@ -1,0 +1,105 @@
+
+mainLevelSkinPack.png
+size: 1024,256
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+back
+  rotate: false
+  xy: 572, 176
+  size: 125, 52
+  split: 26, 97, 17, 17
+  pad: 0, 0, 0, 0
+  orig: 125, 52
+  offset: 0, 0
+  index: -1
+backhover
+  rotate: false
+  xy: 572, 122
+  size: 125, 52
+  split: 26, 96, 17, 17
+  pad: 0, 0, 0, 0
+  orig: 125, 52
+  offset: 0, 0
+  index: -1
+city
+  rotate: false
+  xy: 2, 116
+  size: 112, 112
+  split: 37, 37, 37, 37
+  pad: 0, 0, 0, 0
+  orig: 112, 112
+  offset: 0, 0
+  index: -1
+cityhover
+  rotate: false
+  xy: 2, 2
+  size: 112, 112
+  split: 37, 37, 37, 37
+  pad: 0, 0, 0, 0
+  orig: 112, 112
+  offset: 0, 0
+  index: -1
+desert
+  rotate: false
+  xy: 116, 116
+  size: 112, 112
+  split: 37, 37, 37, 37
+  pad: 0, 0, 0, 0
+  orig: 112, 112
+  offset: 0, 0
+  index: -1
+deserthover
+  rotate: false
+  xy: 116, 2
+  size: 112, 112
+  split: 37, 37, 37, 37
+  pad: 0, 0, 0, 0
+  orig: 112, 112
+  offset: 0, 0
+  index: -1
+ext
+  rotate: false
+  xy: 230, 116
+  size: 112, 112
+  split: 37, 37, 37, 37
+  pad: 0, 0, 0, 0
+  orig: 112, 112
+  offset: 0, 0
+  index: -1
+jungle
+  rotate: false
+  xy: 230, 2
+  size: 112, 112
+  split: 37, 37, 37, 37
+  pad: 0, 0, 0, 0
+  orig: 112, 112
+  offset: 0, 0
+  index: -1
+junglehover
+  rotate: false
+  xy: 344, 116
+  size: 112, 112
+  split: 37, 37, 37, 37
+  pad: 0, 0, 0, 0
+  orig: 112, 112
+  offset: 0, 0
+  index: -1
+night
+  rotate: false
+  xy: 344, 2
+  size: 112, 112
+  split: 37, 37, 37, 37
+  pad: 0, 0, 0, 0
+  orig: 112, 112
+  offset: 0, 0
+  index: -1
+nighthover
+  rotate: false
+  xy: 458, 116
+  size: 112, 112
+  split: 37, 37, 37, 37
+  pad: 0, 0, 0, 0
+  orig: 112, 112
+  offset: 0, 0
+  index: -1
